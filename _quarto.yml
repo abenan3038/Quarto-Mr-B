@@ -8,17 +8,17 @@ project:
     - assets/epub-reader.js
 
 book:
-  title: "Quarto Template"
-  author: "Bakti Siregar, M.Sc."
+  title: "Praktikum Statistika"
+  author: "Afnan Nur Fakhru Arifin"
   date: today
   description: "Deskripsi singkat tentang buku"
   cover-image: images/Cover.png
-  repo-url: https://github.com/pakardata1/ebook-template-quarto.git
+  repo-url: https://github.com/abenan3038/Quarto-Mr-B.git
   repo-actions: [edit, issue]
   sidebar:
     tools:
       - icon: file-pdf
-        href: Quarto-Template.pdf
+        href: P09.pdf
         text: Pratinjau PDF
         aria-label: Pratinjau PDF
       - icon: journal
